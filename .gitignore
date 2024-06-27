@@ -136,3 +136,5 @@ Desktop.ini
 # Storybook files
 .storybook/
 .out/
+
+.bin/
